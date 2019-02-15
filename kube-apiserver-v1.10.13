@@ -1,1 +1,0 @@
-from gcr.io/google-containers/kube-apiserver:v1.10.13
