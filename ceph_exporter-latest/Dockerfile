@@ -1,1 +1,1 @@
-from digitalocean/ceph_exporter
+FROM digitalocean/ceph_exporter
