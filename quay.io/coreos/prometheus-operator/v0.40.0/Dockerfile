@@ -1,0 +1,1 @@
+from quay.io/coreos/prometheus-operator:v0.40.0
